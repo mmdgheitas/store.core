@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- font---------------------------------------->
+    <link rel="stylesheet" href="~/theme/css/vendor/font-awesome.min.css">
+    <link rel="stylesheet" href="~/theme/css/vendor/materialdesignicons.css">
+    <!-- plugin-------------------------------------->
+    <link rel="stylesheet" href="~/theme/css/vendor/bootstrap.css">
+    <link rel="stylesheet" href="~/theme/css/vendor/owl.carousel.min.css">
+    <link rel="stylesheet" href="~/theme/css/vendor/nice-select.css">
+    <link rel="stylesheet" href="~/theme/css/vendor/jquery.jqZoom.css">
+    <!-- main-style---------------------------------->
+    <link rel="stylesheet" href="~/theme/css/main.css">
+    <link rel="stylesheet" href="~/theme/css/responsive.css">
+    @RenderSection("links", required: false)
+</head>
+<body>
+
+    @RenderBody()
+
+    <!-- file js---------------------------------------------------->
+    <script src="~/theme/js/vendor/jquery-3.2.1.min.js"></script>
+    <script src="~/theme/js/vendor/bootstrap.js"></script>
+    <!-- plugin----------------------------------------------------->
+    <script src="~/theme/js/vendor/owl.carousel.min.js"></script>
+    <script src="~/theme/js/vendor/jquery.countdown.js"></script>
+    <script src="~/theme/js/vendor/jquery.nice-select.min.js"></script>
+    <script src="~/theme/js/vendor/jquery.jqZoom.js"></script>
+    <!-- main js---------------------------------------------------->
+    <script src="~/theme/js/main.js"></script>
+    @RenderSection("scripts", required: false)
+</body>
+</html>

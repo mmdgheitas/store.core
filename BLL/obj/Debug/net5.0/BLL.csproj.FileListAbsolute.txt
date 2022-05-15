@@ -1,0 +1,17 @@
+E:\source\store.core\BLL\bin\Debug\net5.0\BLL.deps.json
+E:\source\store.core\BLL\bin\Debug\net5.0\BLL.dll
+E:\source\store.core\BLL\bin\Debug\net5.0\ref\BLL.dll
+E:\source\store.core\BLL\bin\Debug\net5.0\BLL.pdb
+E:\source\store.core\BLL\bin\Debug\net5.0\be.dll
+E:\source\store.core\BLL\bin\Debug\net5.0\DAL.dll
+E:\source\store.core\BLL\bin\Debug\net5.0\be.pdb
+E:\source\store.core\BLL\bin\Debug\net5.0\DAL.pdb
+E:\source\store.core\BLL\obj\Debug\net5.0\BLL.csproj.AssemblyReference.cache
+E:\source\store.core\BLL\obj\Debug\net5.0\BLL.GeneratedMSBuildEditorConfig.editorconfig
+E:\source\store.core\BLL\obj\Debug\net5.0\BLL.AssemblyInfoInputs.cache
+E:\source\store.core\BLL\obj\Debug\net5.0\BLL.AssemblyInfo.cs
+E:\source\store.core\BLL\obj\Debug\net5.0\BLL.csproj.CoreCompileInputs.cache
+E:\source\store.core\BLL\obj\Debug\net5.0\BLL.csproj.CopyComplete
+E:\source\store.core\BLL\obj\Debug\net5.0\BLL.dll
+E:\source\store.core\BLL\obj\Debug\net5.0\ref\BLL.dll
+E:\source\store.core\BLL\obj\Debug\net5.0\BLL.pdb
